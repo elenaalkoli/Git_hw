@@ -1,0 +1,6 @@
+GIT
+JS
+TS
+Auto-testing (UI+API)
+Test frameworks
+CI/CD basics
